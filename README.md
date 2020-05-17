@@ -1,2 +1,3 @@
-# 2wd-robot-controller
- Simple Controller for 2WD Robot
+# 2WD Robot Motor Driver
+ 
+ A generic motor driver code for a 2WD holonomic robot. 
